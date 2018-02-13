@@ -1,0 +1,18 @@
+/*.Message{*/
+    /*margin: 10px 0px 10px 0px;*/
+/*}*/
+.NewAuthor{
+    border: 1px solid black;
+    width: 20%;
+    margin-right: 13px;
+    margin-left: 10px;
+    min-height: 25px;
+    color: red;
+    display: inline-block;
+}
+.NewMessage{
+    border: 1px solid black;
+    width: 60%;
+    min-height: 25px;
+    display: inline-block;
+}

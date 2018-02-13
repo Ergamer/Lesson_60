@@ -1,0 +1,11 @@
+.UserName{
+    width: 20%;
+    height: 15px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.UserMessage{
+    width: 60%;
+    height: 15px;
+    margin-right: 10px;
+}
